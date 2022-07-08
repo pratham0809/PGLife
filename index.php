@@ -19,6 +19,8 @@ session_start();
     <?php
     include "includes/header.php";
     ?>
+    <script type="text/javascript" src="js/common.js"></script>
+
 
     <div class="banner-container">
         <h2 class="white pb-3">Happiness per Square Foot</h2>
